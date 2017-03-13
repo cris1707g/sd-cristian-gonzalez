@@ -1,0 +1,5 @@
+default[:db][:password_db]='distribuidos'
+default[:db][:usuarioweb_db]='icesi'
+default[:db][:ip_db]='192.168.131.32'
+default[:db][:ip_db2]='192.168.131.34'
+default[:db][:passwordweb_db]='12345'
